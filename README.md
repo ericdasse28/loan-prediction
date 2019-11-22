@@ -1,7 +1,8 @@
 # Loan Prediction
 
-The loan prediction I am tackling here comes from the competition powered by Analytics Vidhya at https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+The loan prediction problem I am tackling here comes from the competition powered by Analytics Vidhya at https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 
+This work is inspired by the tutorial [here](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/).
 ## Problem Statement
 ### About Company
 Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
